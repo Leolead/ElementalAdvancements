@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JLu/ix/Xg5BQltVErHmKmIRAa/LbAp4v05Rbh279PTqi3v7Ocxxsuwc8WqnzHKfK+y/33SUxS0SNbiCpbRuWtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timco\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\SteezySnail\\SteezySnail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timco\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

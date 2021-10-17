@@ -1,0 +1,3 @@
+displayName = Elemental Advances
+author = SteezeGTS
+version = 0.1
