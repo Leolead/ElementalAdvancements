@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUoCk6OAo1J6wZ6RkYgzE4upceo0if6S7Tg/f0F3IGXf3vmBxlzMGLGbX6YJIe/vaLRBDCFDjJV+d+hEZkI+uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timco\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\ElementalAdvances\\ElementalAdvances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timco\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
